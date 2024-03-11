@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Sulphur+Point:wght@300;400;700&display=swap');
+
+.logo1 {
+    width: 300px;
+    margin-top: -15px;
+    margin-left: 0px;
+}
+
+.logo5 {
+    width: 150px;
+    margin-left: 40px;
+    margin-top: 60px;
+
+}
+
+.logo6 {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.logo7 {
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-bottom: 80px;
+}
+
+.txt1 {
+    font-family: "Sulphur Point", sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+.txt2 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.txt16 {
+    margin-left: 40px;
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    margin-bottom: -10px;
+    font-size: 30px;
+}
+
+.txt17 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: -220px;
+    margin-bottom: -20px;
+}
+
+.txt18 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-bottom: -20px;
+}
+
+.txt19 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-bottom: 60px;
+}
+
+.txt20 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: -20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    margin-left: -1%;
+    background-size: cover;
+    width: 101.5%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
