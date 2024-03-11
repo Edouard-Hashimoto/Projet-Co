@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Sulphur+Point:wght@300;400;700&display=swap');
+
+
+.logo1 {
+    width: 300px;
+    margin-top: 5px;
+    margin-left: 0px;
+}
+
+.logo2 {
+    margin-left: 120px;
+    margin-right: 140px;
+    width: 250px;
+}
+
+.logo3 {
+    margin-top: 120px;
+    margin-left: 40px;
+    width: 150px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 50px;
+}
+
+.logo4 {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo5 {
+    width: 150px;
+    margin-left: 40px;
+    margin-top: 60px;
+
+}
+
+.logo6 {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.logo7 {
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-bottom: 80px;
+}
+
+.logo8 {
+    margin-left: 1300px;
+    margin-top: -40px;
+    width: 250px;
+
+}
+
+
+.partie1 {
+    margin-top: -20px;
+    margin-left: -1%;
+    background-image: url('Images/fond1.webp');
+    background-size: cover;
+    width: 101.5%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.partie2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.partie3 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #B7D8FF;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.partie5 {
+    margin-top: -20px;
+    margin-left: -1%;
+    background-image: url('Images/fond2.webp');
+    background-size: cover;
+    width: 101.5%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 75px;
+}
+
+.txt1 {
+    font-size: 80px;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-family: "Sulphur Point", sans-serif;
+}
+
+.txt2 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 50px;
+    margin-top: 30px;
+    color: white;
+    margin-left: 50px;
+}
+
+.txt3 {
+    font-size: 30px;
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: -20px;
+    color: white;
+    margin-left: 50px;
+}
+
+.txt4 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 55px;
+}
+
+
+.txt5 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    margin-bottom: -20px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 60px;
+}
+
+.txt6 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.txt7 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 55px;
+    background-color: #B7D8FF;
+    margin-bottom: -60px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.txt8 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    margin-bottom: -20px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 70px;
+}
+
+.txt9 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 70px;
+}
+
+.txt10 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    font-size: 55px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.txt11 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.txt12 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: -300px;
+    margin-right: 750px;
+    background-color: #E31718;
+    margin-left: 600px;
+    font-size: 60px;
+    border-radius: 100px;
+    padding: 40px;
+}
+
+.txt13 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: -120px;
+    margin-left: 820px;
+    font-size: 30px;
+}
+
+.txt14 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 100px;
+    margin-right: 550px;
+    background-color: #1BA7B0;
+    margin-left: 800px;
+    font-size: 60px;
+    border-radius: 100px;
+    padding: 40px;
+    margin-bottom: 200px;
+}
+
+.txt15 {
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: -230px;
+    margin-left: 1000px;
+    margin-bottom: 100px;
+    font-size: 30px;
+}
+
+.txt16 {
+    margin-left: 40px;
+    font-family: "Sulphur Point", sans-serif;
+    margin-top: 40px;
+    margin-bottom: -10px;
+    font-size: 30px;
+}
+
+.txt17 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: -220px;
+    margin-bottom: -20px;
+}
+
+.txt18 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-bottom: -20px;
+}
+
+.txt19 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-bottom: 60px;
+}
+
+.txt20 {
+    font-family: "Sulphur Point", sans-serif;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: -20px;
+}
+
+
+.ligne {
+    margin-left: 20px;
+}
+
+.commencer {
+    padding: 20px 20px;
+    margin-left: 1400px;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+.commencer:hover {
+    background-color: white;
+}
+
+.commencer2 {
+    margin-top: 80px;
+    margin-left: 650px;
+    padding: 20px 20px;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-bottom: 20px;
+}
+
+
+.commencer2:hover {
+    background-color: black;
+}
+
+.palmier {
+    width: 400px;
+    margin-bottom: -300px;
+    margin-left: -1050px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    margin-left: -1%;
+    background-size: cover;
+    width: 101.5%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
